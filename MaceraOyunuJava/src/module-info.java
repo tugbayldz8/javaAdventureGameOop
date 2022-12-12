@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Sherlock
+ *
+ */
+module MaceraOyunuJava {
+}
